@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Terry/Documents/Unreal Projects/ScrappingInShibuya/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Terry/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NZ/PJDZ63UBLBK28YD28HKDOA.uasset",
+				"C:/Users/Terry/Documents/GitHub/ScrappingInShibuya/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Terry/Documents/GitHub/ScrappingInShibuya/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Terry/Documents/GitHub/ScrappingInShibuya/Content/MyMainMenu/ATB/CommandMenu.uasset",
 				"C:/Users/tevans1/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/G7/YSDR8SX1M1OZO7WFX5B3UQ.uasset",
 				"C:/Users/tevans1/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YG/7UCC2P3M9NMA7R7VPP9VJM.uasset",
 				"C:/Users/tevans1/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ES/UES7OYNPUI6S9H587NM2AR.uasset",
@@ -2466,7 +2471,6 @@
 				"C:/Users/tevans1/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/5F/T9N1LTXFYODRJHUSF5WZN6.uasset",
 				"C:/Users/tevans1/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/1N/P61YGQ9GLHSXOIZTPQDN0C.uasset",
 				"C:/Users/tevans1/Documents/GitHub/ScrappingInShibuya/Content/Characters/Kyo/Kyo_BS.uasset",
-				"C:/Users/Terry/Documents/Unreal Projects/ScrappingInShibuya/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Terry/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"C:/Users/Terry/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
 				"C:/Users/Terry/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
@@ -2496,8 +2500,7 @@
 				"C:/Users/Terry/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
 				"C:/Users/Terry/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
 				"C:/Users/Terry/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
-				"C:/Users/Terry/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X1/TW5Z0435G5G2LQT8EA4S6V.uasset",
-				"C:/Users/Terry/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NZ/PJDZ63UBLBK28YD28HKDOA.uasset"
+				"C:/Users/Terry/Documents/GitHub/ScrappingInShibuya/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X1/TW5Z0435G5G2LQT8EA4S6V.uasset"
 			]
 		}
 	]
